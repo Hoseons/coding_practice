@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+*,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #333;
+    font-size: 16px;
+    
+}
+
+ul,li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+img{
+    border: none;
+    vertical-align: middle;
+}
+#width{
+    margin: 0 auto;
+    width: 1050px;
+}
