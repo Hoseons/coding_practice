@@ -11,7 +11,7 @@
 body{
     color: #333;
     font-size: 16px;
-    
+    font-family: 'Noto Sans KR', sans-serif;,"malgun gothic",AppleGothic,dotum;
 }
 
 ul,li{
@@ -30,4 +30,9 @@ img{
 #width{
     margin: 0 auto;
     width: 1050px;
+}
+
+fieldset, input{
+
+    border: none;
 }
